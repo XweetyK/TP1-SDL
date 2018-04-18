@@ -1,16 +1,13 @@
-[Dd]ebug/
-TrabajoPractico1/[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
-TrabajoPractico1/[Rr]elease/
-[Rr]eleases/
-bld/
-[Bb]in/
-[Oo]bj/
-[Ll]og/
-
 TrabajoPractico1/Debug/
+TrabajoPractico1/x64/Debug/
+
+TrabajoPractico1/Release/
+TrabajoPractico1/x64/Release/
 
 TrabajoPractico1/Ejercicio1/Debug/
+TrabajoPractico1/Ejercicio1/x64/Debug/
+
+TrabajoPractico1/Ejercicio1/Release/
+TrabajoPractico1/Ejercicio1/x64/Release/
 
 TrabajoPractico1/TrabajoPractico1\.VC\.db
